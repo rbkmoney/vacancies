@@ -8,6 +8,9 @@
 - [Инженер группы мониторинга и предотвращения вторжений](/roles/security/monitoring-and-intrusion-prevention-engineer.md)
 - [Инженер группы корпоративной безопасности](/roles/security/corporate-security-engineer.md)
 - [Специалист по информационной безопасности](/roles/security/information-security-specialist.md)
+
+### Devops
+
 - [Senior Devops Engineer](/roles/devops/senior.md)
 - [Junior Devops Engineer](/roles/devops/junior.md)
 
