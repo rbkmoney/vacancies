@@ -5,9 +5,6 @@
 ### Информационная безопасность
 
 - [Инженер группы безопасности приложений](/roles/security/application-security-engineer.md)
-- [Инженер группы мониторинга и предотвращения вторжений](/roles/security/monitoring-and-intrusion-prevention-engineer.md)
-- [Инженер группы корпоративной безопасности](/roles/security/corporate-security-engineer.md)
-- [Специалист по информационной безопасности](/roles/security/information-security-specialist.md)
 
 ### Devops
 
