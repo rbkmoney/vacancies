@@ -8,8 +8,7 @@
 
 ### Devops
 
-- [Senior Devops Engineer](/roles/devops/senior.md)
-- [Junior Devops Engineer](/roles/devops/junior.md)
+- [Devops Engineer](/roles/devops/mid.md)
 
 ## Кто мы и что делаем
 

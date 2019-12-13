@@ -15,7 +15,7 @@
   - SaltStack
   - Jenkins
   - Elasticsearch
-  - Kafka 
+  - Kafka
   - Clickhouse и др.
 
 **В планах:**
