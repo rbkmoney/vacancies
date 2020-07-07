@@ -4,7 +4,7 @@
 
 ### Информационная безопасность
 
-- [Инженер группы безопасности приложений](/roles/security/application-security-engineer.md)
+- [Инженер группы корпоративной безопасности](/roles/security/corporate-security-engineer.md)
 
 ### Devops
 
