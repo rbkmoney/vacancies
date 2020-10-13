@@ -6,6 +6,10 @@
 
 - [Инженер группы корпоративной безопасности](/roles/security/corporate-security-engineer.md)
 
+### Проектный офис
+
+- [PMO Head](/roles/management/pmo-head.md)
+
 ### Devops
 
 - [Devops Engineer](/roles/devops/mid.md)
