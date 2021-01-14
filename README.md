@@ -4,7 +4,7 @@
 
 ### Информационная безопасность
 
-- [Инженер группы корпоративной безопасности](/roles/security/corporate-security-engineer.md)
+- [Инженер по безопасности приложений](/roles/security/application-security-engineer.md)
 
 ### Проектный офис
 
