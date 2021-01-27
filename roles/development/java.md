@@ -1,3 +1,5 @@
+![logo.jpg](logo.jpg)
+
 ## Кто мы?
 
 Финтех-компания [RBK.money](https://habr.com/ru/company/rbkmoney/) – занимаемся электронными платежами в интернете. 
