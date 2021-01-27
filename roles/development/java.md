@@ -50,6 +50,6 @@
 
 ![takemyCV.jpg](takemyCV.jpg)
 
-Откликнуться на вакансию – к эйчарам на [hr@rbk.money](mailto:hr@rbk.money).
+Откликнуться на вакансию – к эйчарам на почту [hr@rbk.money](mailto:hr@rbk.money) или в [телеграм](https://t.me/escada874)
 
 Порасспрашивать разработчиков о жизни в компании – в телеграм [@WizemanSolo](https://t.me/WizemanSolo) или [@ex1tus](https://t.me/ex1tus).
