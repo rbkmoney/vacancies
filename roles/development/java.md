@@ -50,5 +50,6 @@
 
 ![shut_up_and_take_my_cv.png](shut_up_and_take_my_cv.png)
 
-Откликнуться на вакансию - HR-ам [hr@rbk.money](mailto:hr@rbk.money)
-Если интересно поспрашивать разработчиков о жизни в компании - [@WizemanSolo](https://t.me/WizemanSolo) / [@ex1tus](https://t.me/ex1tus)
+Откликнуться на вакансию – к эйчарам на [hr@rbk.money](mailto:hr@rbk.money).
+
+Порасспрашивать разработчиков о жизни в компании – в телеграм [@WizemanSolo](https://t.me/WizemanSolo) или [@ex1tus](https://t.me/ex1tus).
