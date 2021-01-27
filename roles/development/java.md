@@ -48,7 +48,7 @@
 
 ## Куда бежать?!
 
-![shut_up_and_take_my_cv.png](shut_up_and_take_my_cv.png)
+![takemyCV.jpg](takemyCV.jpg)
 
 Откликнуться на вакансию – к эйчарам на [hr@rbk.money](mailto:hr@rbk.money).
 
