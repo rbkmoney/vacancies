@@ -28,4 +28,4 @@
 
 ## Куда бежать?
 
-Откликнуться на вакансию – к эйчарам на почту [hr@rbk.money](mailto:hr@rbk.money) или в [телеграм](https://t.me/escada874)
+Откликнуться на вакансию – к эйчарам на почту [hr@rbk.money](mailto:hr@rbk.money).
